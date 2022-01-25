@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <chrono>
+#include <algorithm>
 #include <vector>
 using namespace std;
 using namespace std::chrono;
@@ -113,6 +114,7 @@ void wordSearch(vector<vector<char>> vect,vector<vector<int>> &vectInt, int curR
     return;
 }
 
+
 void solutionPrint(vector<vector<char>> vect,vector<vector<int>> vectInt)
 {
     int i,j;
@@ -223,6 +225,7 @@ int main()
 
         while(getline(myfile,text))
         {
+            text.erase(remove(text.begin(), text.end(), ' '), text.end());
             vString.push_back(text);
         }
     }

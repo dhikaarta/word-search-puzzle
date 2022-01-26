@@ -13,5 +13,5 @@ Tucil 1 Stima ini adalah program yang bertujuan menyelesaikan word search puzzle
 * Masukkan nama file berupa .txt , file harus terdapat dalam folder test
 * Program akan mengeluarkan hasil penyelesaian puzzle
 
-## Authors
+## Author
 * [Andhika Arta Aryanto - 13520081](https://github.com/dhikaarta)

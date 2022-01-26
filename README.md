@@ -9,7 +9,7 @@ Tucil 1 Stima ini adalah program yang bertujuan menyelesaikan word search puzzle
 ## Usage
 * Clone repository ini 
 * Buka terminal pilihan anda yang dapat menjalankan ANSI, pada windows contohnya adalah Windows Powershell.
-* Masuk ke directory tempat anda clone repository, masuk folder bin dan ketil '\wordsearch'
+* Masuk ke directory tempat anda clone repository, masuk folder bin dan ketik '\wordsearch'
 * Masukkan nama file berupa .txt , file harus terdapat dalam folder test
 * Program akan mengeluarkan hasil penyelesaian puzzle
 

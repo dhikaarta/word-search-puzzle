@@ -1,4 +1,4 @@
-# Tucil1Stima2022
+# Tucil 1 Stima 2022
 
 ## General Information
 Tucil 1 Stima ini adalah program yang bertujuan menyelesaikan word search puzzle menggunakan algoritma brute force. Input berupa file .txt dan hasil akan ditampilkan pada terminal.
